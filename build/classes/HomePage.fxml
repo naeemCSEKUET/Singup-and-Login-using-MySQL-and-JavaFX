@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="HomePageController">
+   <children>
+      <Label fx:id="idname" layoutX="132.0" layoutY="63.0" prefHeight="17.0" prefWidth="229.0" />
+      <Label fx:id="idemail" layoutX="158.0" layoutY="104.0" prefHeight="17.0" prefWidth="314.0" />
+   </children>
+</AnchorPane>
